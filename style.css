@@ -16,7 +16,7 @@
 }
 .main{
     height: 1200px;
-    background-color: crimson;
+    background-color: rgb(166, 16, 46);
     position: relative;
 }
 .div1, .div2, .div3{
